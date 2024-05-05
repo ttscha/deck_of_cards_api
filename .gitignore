@@ -130,3 +130,6 @@ dmypy.json
 
 #temporary files
 temporary/
+
+#add vscode
+.vscode/**/*
